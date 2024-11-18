@@ -1,7 +1,0 @@
-Serap Kanat	Basic	25.03.2023	Book A	1	Book B	1	Book C	1
-Aysun Yilmaz	Premium	20.01.2023	Book A	2	Book B	2
-Suna Uysal	Standard	26.02.2023	Book B	2	Book C	2
-Serap Kanat	Basic	15.01.2023	Book C	3
-Hasan Uzun	Premium	26.01.2023	Book A	1	Book B	2
-Bahar Gezici	Standard	18.01.2023	Book D	5	Book C	1
-Furkan Can	Premium	02.01.2023	Book B	1
